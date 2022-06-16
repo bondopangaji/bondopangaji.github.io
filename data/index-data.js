@@ -115,7 +115,7 @@ const indexData = {
         description:
           "A Microservice Project, intended as a study case in Microservice Architecture and Hexagonal Architecture ",
         github: true,
-        github_link: "https://github.com",
+        github_link: "https://github.com/bondopangaji/bmwoods-microservice",
         preview: false,
         preview_link: null,
       },
@@ -124,7 +124,7 @@ const indexData = {
         description:
           " Groomycat is a landing page designed for pet care organizations. It is implemented with HTML, CSS, Bootstrap 5, and AlpineJS.",
         github: true,
-        github_link: "https://github.com",
+        github_link: "https://github.com/bondopangaji/groomycat",
         preview: false,
         preview_link: null,
       },
@@ -142,7 +142,7 @@ const indexData = {
         description:
           "A Spring Boot project as a study case in CI/CD with Git, Github Repository, Github Actions, and Docker.",
         github: true,
-        github_link: "https://github.com/bondopangaji/spring-security-jwt",
+        github_link: "https://github.com/bondopangaji/boot-web-app-ci-cd",
         preview: false,
         preview_link: null,
       },
@@ -151,7 +151,7 @@ const indexData = {
         description:
           "EMS Web Appp implemented with Spring Boot to automating manual tasks such as managing employee data and payroll.",
         github: true,
-        github_link: "https://github.com",
+        github_link: "https://github.com/bondopangaji/bon-ems",
         preview: false,
         preview_link: null,
       },
