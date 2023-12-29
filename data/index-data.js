@@ -209,6 +209,8 @@ function loadData() {
   return indexData;
 }
 
+loadData()
+
 // /**
 // * On load handler,
 // * Equivalent to JQuery `$( document ).ready()`.

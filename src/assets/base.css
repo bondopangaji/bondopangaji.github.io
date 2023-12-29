@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+:root {
+  --white: #fff;
+  --blue: #242933;
+  --dark-blue: #1f2937;
+}
+
+/* semantic color variables for this project */
+:root {
+  --color-background: var(--blue);
+  --color-text: var(--white);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: var(--white);
+    --color-text: var(--dark-blue);
+  }
+}
+
+* {
+  box-sizing: border-box;
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--color-text);
+  background: var(--color-background);
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  line-height: 1.6;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
