@@ -11,7 +11,7 @@
 :root {
   --color-background: var(--white);
   --color-text: var(--dark-blue);
- 
+
 }
 
 [data-theme='dark'] {
@@ -38,4 +38,10 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+@media screen and (max-width: 35.5em) {
+  body {
+    font-size: 12px;
+  }
 }

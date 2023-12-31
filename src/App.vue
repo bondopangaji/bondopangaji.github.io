@@ -84,7 +84,6 @@ nav a {
 /* Left and right section */
 .section-float.section-side {
   width: 27.5%;
-  /* border: solid 1px red; */
 }
 
 /* Middle section */
@@ -99,13 +98,14 @@ nav a {
   clear: both;
 }
 
+/* Currently not used, might use later in the future */
 /* Responsive layout - makes the three sections stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
   .section-float .section-side,
   .section-float .section-middle {
     width: 100%;
   }
-}
+} */
 
 .app-container {
   display: flex;
@@ -133,5 +133,45 @@ footer {
   background-color: transparent;
   border-color: transparent;
   cursor: pointer;
+}
+
+@media screen and (max-width: 35.5em) {
+  .section-float.section-side {
+    width: 0%;
+  }
+
+  .section-float.section-middle {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 35.5em) and (max-width: 48em) {
+  .section-float.section-side {
+    width: 7.5%;
+  }
+
+  .section-float.section-middle {
+    width: 85%;
+  }
+}
+
+@media screen and (min-width: 48em) and (max-width: 64em) {
+  .section-float.section-side {
+    width: 15%;
+  }
+
+  .section-float.section-middle {
+    width: 70%;
+  }
+}
+
+@media screen and (min-width: 80em) {
+  .section-float.section-side {
+    width: 27.5%;
+  }
+
+  .section-float.section-middle {
+    width: 45%;
+  }
 }
 </style>
