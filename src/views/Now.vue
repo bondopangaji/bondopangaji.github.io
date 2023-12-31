@@ -1,10 +1,16 @@
+<script setup>
+  import { now } from '../data/now.js';
+  import { ref } from 'vue'; 
+
+  const nows = ref(now);
+</script>
+
 <template>
   <h3 class="title">What im up to lately</h3>
   <ul>
-    <li>Strengthen Kotlin with Spring Boot (Usually I use Groovy)</li>
-    <li>Learning Go with Echo</li>
-    <li>Integrate Backend with HTMX</li>
-    <li>Playing around with Vue (Learning front-end paradigm, HTMX clears btw)</li>
+    <div v-for="now in nows">
+      <li>{{ now.hnn }}</li>
+    </div>
   </ul>
 </template>
 

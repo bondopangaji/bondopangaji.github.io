@@ -1,7 +1,7 @@
 <template>
   <h3 class="title">Hello!</h3>
   <p>
-    My name is <bold>Bondo Pangaji</bold>. I'm a final year undergraduate student, majoring in
+    My name is <span class="bold">Bondo Pangaji</span>. I'm a final year undergraduate student, majoring in
     Information and Communication Technology with a concentration in Software Engineering.
   </p>
   <p>
@@ -26,11 +26,11 @@
     text-justify: inter-word;
   }
 
-  bold {
+  .bold {
     font-weight: bolder;
   }
 
   a {
-    color: var(--dark-blue);
+    color: var(--color-text);
   }
 </style>

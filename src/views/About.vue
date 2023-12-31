@@ -46,7 +46,7 @@
   }
 
   a {
-    color: var(--dark-blue);
+    color: var(--color-text);
   }
 
   .sep {
