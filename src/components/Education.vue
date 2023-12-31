@@ -1,17 +1,19 @@
+<script setup>
+  import { education } from '../data/education.js';
+  import { ref } from 'vue'; 
+
+  const educations = ref(education);
+</script>
+
 <template>
   <h3 class="edu-title">Education</h3>
-    
-  <div class="edu-wrapper">
-    <div class="edu-name">Asia e University</div>
-    <div>Bachelor of Information and Communication Technology</div>
-    <div class="edu-duration">September 2020 - November 2024</div>
-  </div>
 
-  <div class="edu-wrapper">
-    <div class="edu-name">CCIT Faculty of Engineering, Universitas Indonesia</div>
-    <div>Professional Diploma in Software Engineering</div>
-    <div class="edu-duration">September 2020 - November 2022</div>
+  <div v-for="education in educations" class="edu-wrapper">
+    <div class="edu-name">{{ education.name }}</div>
+    <div>{{ education.degree }}</div>
+    <div class="edu-duration">{{ education.startDate }} - {{ education.endDate }}</div>
   </div>
+  
 </template>
 
 <style scoped>
