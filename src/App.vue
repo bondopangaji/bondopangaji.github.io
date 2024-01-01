@@ -165,13 +165,23 @@ footer {
   }
 }
 
-@media screen and (min-width: 80em) {
+@media screen and (min-width: 64em) and (max-width: 80em) {
   .section-float.section-side {
     width: 27.5%;
   }
 
   .section-float.section-middle {
     width: 45%;
+  }
+}
+
+@media screen and (min-width: 80em) {
+  .section-float.section-side {
+    width: 32.5%;
+  }
+
+  .section-float.section-middle {
+    width: 35%;
   }
 }
 </style>
