@@ -1,7 +1,7 @@
 export const now = [
   {
     id: 1,
-    hnn: 'Strengthen Kotlin with Spring Boot (Usually I use Groovy)',
+    hnn: 'Strengthen Java with Spring Boot (Usually I use Groovy)',
   },
   {
     id: 2,
