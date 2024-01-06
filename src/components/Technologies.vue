@@ -4,7 +4,7 @@
   <div class="tech-container">
     <div class="tech-description">Technologies that i familiar with: </div>
     <ul>
-      <li><span class="bold">Languages:</span> Go, Groovy, Java, HTML, CSS, Javascript</li>
+      <li><span class="bold">Languages:</span>Groovy, Java, HTML, CSS, Javascript</li>
       <li><span class="bold">Backend:</span> Spring, Echo, Nuxt</li>
       <li><span class="bold">Databases:</span> MySQL, PostgreSQL</li>
       <li><span class="bold">Frontend/Templating:</span> Vue, Thymeleaf, HTMX</li>
