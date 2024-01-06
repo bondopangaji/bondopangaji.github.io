@@ -8,6 +8,7 @@
 
 <template>
   <h3 class="projects-title">Recent Projects</h3>
+  <p>[Work in Progress]</p><br>
   <ul>
     <div v-for="project in projects" :key="project.id">
       <div class="projects-container">
