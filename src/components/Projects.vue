@@ -8,19 +8,19 @@
 
 <template>
   <h3 class="projects-title">Recent Projects</h3>
-  <p>[Work in Progress]</p><br>
   <ul>
     <div v-for="project in projects" :key="project.id">
       <div class="projects-container">
       <li><span class="bold">{{ project.title }}</span>
-        <span v-if="project.links.github">
+        <span v-if="project.links?.github">
           [<a v-bind:href="project.links.github" target="_blank">Source</a>] 
         </span>
-        <span v-if="project.links.visit">
+        <span v-if="project.links?.visit">
           [<a v-bind:href="project.links.visit" target="_blank">Visit</a>] 
         </span>
       </li>
       <p>{{ project.description }}</p>
+      <p style="margin-top: 6px;">{{ project.whatido }}</p>
       <Badge v-for="(builtWith, index) in project.builtWith" :key="index" class="badge-margin" >{{ builtWith }}</Badge>
     </div>
     </div>
@@ -40,11 +40,6 @@
 
   ul {
     margin: 0;
-  }
-
-  li {
-    text-align: justify;
-    text-justify: inter-word;
   }
 
   p {

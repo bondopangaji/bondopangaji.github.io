@@ -177,11 +177,11 @@ footer {
 
 @media screen and (min-width: 80em) {
   .section-float.section-side {
-    width: 32.5%;
+    width: 25%;
   }
 
   .section-float.section-middle {
-    width: 35%;
+    width: 50%;
   }
 }
 </style>

@@ -64,8 +64,4 @@
     margin: 0;
   }
 
-  li {
-    text-align: justify;
-    text-justify: inter-word;
-  }
 </style>
