@@ -10,7 +10,7 @@
   </p>
   <p>
     I have accrued approximately one year of professional experience as a Software Engineer at
-    <a href="https://www.savantdegrees.com/" target="_blank">Savant Degrees</a> where I have been
+    <a href="https://www.savantdegrees.com/" target="_blank">SD</a> where I have been
     actively involved in maintaining applications for our clients while concurrently pursuing my
     studies.
   </p>
