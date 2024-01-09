@@ -44,6 +44,8 @@
 
   p {
     margin: 0;
+    text-align: justify;
+    text-justify: inter-word;
   }
 
   .bold {

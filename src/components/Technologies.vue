@@ -16,8 +16,8 @@
 
 <style scoped>
   .tech-title {
-  font-size: large;
-  font-weight: 600;
+    font-size: large;
+    font-weight: 600;
   }
 
   .tech-container {

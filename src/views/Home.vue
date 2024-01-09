@@ -1,8 +1,8 @@
 <template>
   <h3 class="title">Hello!</h3>
   <p>
-    My name is <span class="bold">Bondo Pangaji</span>. I'm a final year undergraduate student, majoring in
-    Information and Communication Technology with a concentration in Software Engineering.
+    My name is <span class="bold">Bondo Pangaji</span>. I am a final year undergraduate student, majoring in
+    Information and Communication Technology with minor in Software Engineering.
   </p>
   <p>
     My areas of interest is web development especially backend and cloud computing. I thoroughly
