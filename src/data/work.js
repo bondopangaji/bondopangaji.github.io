@@ -9,6 +9,7 @@ export const work = [
     endDate: 'August 2023',
     responsibilities: [
       'Maintaining Telin Enterprise and Telin Ticketing Web Application.',
+      'Build and Implement REST API of Telin Enterprise and Telin Ticketing Web Application.',
       'Collaborate with project managers and fellow developers throughout the RFC implementation to ensure the successful completion of the project.',
       'Identified and resolved software bugs, enhancing overall code quality and system reliability.',
       'Collaborate with project managers to effectively capture and articulate workflows in the business process documentation.',
