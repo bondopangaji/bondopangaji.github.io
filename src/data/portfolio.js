@@ -9,7 +9,7 @@ export const portfolio = [
   {
     id: 2,
     title: 'Telin Ticketing API',
-    description: 'Telin Enterprise API is the REST API implementation of Telin Ticketing.',
+    description: 'Telin Ticketing API is the REST API implementation of Telin Ticketing.',
     whatido: 'Assigned as developer to Develop based on requirements, Enhance software quality (fix bugs, refactor and improve code)',
     builtWith: ['Groovy', 'Spring Boot', 'Hibernate', 'MySQL']
   },
