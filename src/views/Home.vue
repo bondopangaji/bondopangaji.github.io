@@ -9,28 +9,27 @@
     enjoy writing well-documented code and implementing best practices in application development.
   </p>
   <p>
-    I have accrued approximately one year of experience as a Software Engineer at
-    <a href="https://www.savantdegrees.com/" target="_blank">SD</a> where I have been
-    actively involved in maintaining applications for our client while concurrently pursuing my
-    studies.
+    In addition to my academic pursuits, I am currently gaining valuable industry experience through my work in Software
+    Engineering. As I pursue full-time opportunities in this field, I am actively applying my skills and knowledge in
+    web development to deliver impactful solutions.
   </p>
 </template>
 
 <style scoped>
-  .title {
-    font-size: large;
-  }
+.title {
+  font-size: large;
+}
 
-  p {
-    text-align: justify;
-    text-justify: inter-word;
-  }
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
-  .bold {
-    font-weight: bolder;
-  }
+.bold {
+  font-weight: bolder;
+}
 
-  a {
-    color: var(--color-text);
-  }
+a {
+  color: var(--color-text);
+}
 </style>

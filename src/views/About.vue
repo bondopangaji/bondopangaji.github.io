@@ -15,11 +15,11 @@
 
   <h3 class="title">What I use</h3>
   <ul>
-    <li>WSL (Previously using Mac OS)</li>
+    <li>WSL (Prev Mac OS)</li>
     <li>VS Code or any Jetbrains Product</li>
     <li>Notion</li>
-    <li>Google/Proton Suite (From mailing, calendar, drive, etc)</li>
-    <li>Bruno (Postman alternative)</li>
+    <li>Google/Proton Suite (mailing, calendar, drive, etc)</li>
+    <li>Bruno (Postman alt)</li>
     <li>Mozilla Firefox as primary browser</li>
   </ul>
 
@@ -29,27 +29,26 @@
     using one of the social links down below. My inbox is always open.
   </p>
   <a href="mailto:bondopangaji@proton.me" target="_blank">Email</a><span class="sep"> / </span>
-  <a href="https://www.linkedin.com/in/bondopangaji" target="_blank">LinkedIn</a
-  ><span class="sep"> / </span>
+  <a href="https://www.linkedin.com/in/bondopangaji" target="_blank">LinkedIn</a><span class="sep"> / </span>
   <a href="https://www.github.com/bondopangaji" target="_blank">GitHub</a>
 </template>
 
 <style scoped>
-  .title {
-    font-size: large;
-    font-weight: 600;
-  }
-  
-  p {
-    text-align: justify;
-    text-justify: inter-word;
-  }
+.title {
+  font-size: large;
+  font-weight: 600;
+}
 
-  a {
-    color: var(--color-text);
-  }
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
-  .sep {
-    opacity: 0.5;
-  }
+a {
+  color: var(--color-text);
+}
+
+.sep {
+  opacity: 0.5;
+}
 </style>
