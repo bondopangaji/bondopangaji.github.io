@@ -6,7 +6,7 @@ import { ref, computed } from 'vue';
 const projects = ref(portfolio);
 
 const currentPage = ref(1);
-const itemsPerPage = 6;
+const itemsPerPage = 5;
 
 const paginatedProjects = computed(() => {
   const startIndex = (currentPage.value - 1) * itemsPerPage;
