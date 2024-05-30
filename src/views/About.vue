@@ -9,7 +9,7 @@
   <p>
     Beyond my professional realm, You'll often see me play
     <a href="https://playvalorant.com" target="_blank">VALORANT</a> and chilling with my friends. I
-    can speak English, Indoensian, and Javanese fluently. If you come accross me don't hesitate to
+    can speak English, Indonesian, and Javanese fluently. If you come accross me don't hesitate to
     say hi! I'd absolutely love to connect!
   </p>
 
