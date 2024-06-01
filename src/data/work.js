@@ -5,7 +5,7 @@ export const work = [
     companyName: 'MLK (PTBA)',
     companyLink: '#',
     companyDescription:
-      'Mutiara Lawang Kidul (MLK) is one of the Bukit Asam vendors supporting the coal rehandling division.',
+      'Mutiara Lawang Kidul (MLK) is one of the Bukit Asam (PTBA) vendors supporting the coal rehandling division.',
     startDate: 'January 2024',
     endDate: 'Now',
     responsibilities: [
