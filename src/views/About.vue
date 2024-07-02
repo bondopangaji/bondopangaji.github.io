@@ -6,12 +6,12 @@
     valuable experience and absorbed knowledge from Senior Engineer at my former company, enriching
     my skill set significantly.
   </p>
-  <p>
+  <!-- <p>
     Beyond my professional realm, You'll often see me play
     <a href="https://playvalorant.com" target="_blank">VALORANT</a> and chilling with my friends. I
     can speak English, Indonesian, and Javanese fluently. If you come accross me don't hesitate to
     say hi! I'd absolutely love to connect!
-  </p>
+  </p> -->
 
   <h3 class="title">What I use</h3>
   <ul>
