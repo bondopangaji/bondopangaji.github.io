@@ -23,9 +23,9 @@ const router = createRouter({
       component: Portfolio
     },
     {
-      path: '/about',
-      name: 'about',
-      component: About
+      path: '/misc',
+      name: 'misc',
+      component: Misc
     }
   ]
 })

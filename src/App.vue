@@ -30,7 +30,7 @@
         <RouterLink to="/">Home</RouterLink><span class="sep"> / </span>
         <RouterLink to="/portfolio">Portfolio</RouterLink><span class="sep"> / </span>
         <RouterLink to="/now">Here & Now</RouterLink><span class="sep"> / </span>
-        <RouterLink to="/about">About</RouterLink>     
+        <RouterLink to="/misc">Misc</RouterLink>     
       </nav>
     </header>
 

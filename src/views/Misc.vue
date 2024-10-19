@@ -1,12 +1,13 @@
 <template>
-  <h3 class="title">About</h3>
+  <!-- <h3 class="title">Misc</h3>
   <p>
     Hi! My name is Bondo Pangaji, A dedicated Student and Software Engineer currently based in
     Indonesia, I enjoy writing code and building applications. In my recent years I've gained
     valuable experience and absorbed knowledge from Senior Engineer at my former company, enriching
     my skill set significantly.
   </p>
-  <!-- <p>
+  
+  <p>
     Beyond my professional realm, You'll often see me play
     <a href="https://playvalorant.com" target="_blank">VALORANT</a> and chilling with my friends. I
     can speak English, Indonesian, and Javanese fluently. If you come accross me don't hesitate to
