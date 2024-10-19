@@ -1,8 +1,8 @@
 export const work = [
   {
-    id: 1,
+    id: 3,
     title: 'Software Developer - Tanjung Enim (On-Site)',
-    companyName: 'MLK (PTBA)',
+    companyName: 'MLK (Bukit Asam)',
     companyLink: '#',
     companyDescription:
       'Mutiara Lawang Kidul (MLK) is one of the Bukit Asam (PTBA) vendors supporting the coal rehandling division.',
@@ -17,7 +17,7 @@ export const work = [
     ]
   },
   {
-    id: 1,
+    id: 2,
     title: 'Junior Software Developer - Singapore (Remote)',
     companyName: 'Savant Degrees',
     companyLink: 'https://www.savantdegrees.com/',
@@ -33,6 +33,21 @@ export const work = [
       'Collaborate with project managers to effectively capture and articulate workflows in the business process documentation.',
       'Participate code review with senior software engineer. Gained valuable feedback to improve my coding practices and skills.',
       'Continuously learning and enhancing proficiency in programming abilities'
+    ]
+  },
+  {
+    id: 2,
+    title: 'Freelance Software Developer - Indonesia (On-Site)',
+    companyName: 'Berkah Mulia Store',
+    companyLink: '#',
+    companyDescription:
+      'Berkah Mulia is a store mainly produce and sells wood planks to the end-customer.',
+    startDate: 'March 2021',
+    endDate: 'June 2022',
+    responsibilities: [
+      'Design, Develop and Maintain Internal Inventory Management for Internal User',
+      'Identified and resolved software bugs, enhancing overall code quality and system reliability.',
+      'Collaborate with store owner to effectively capture business process workflows in the development phase',
     ]
   }
 ]
