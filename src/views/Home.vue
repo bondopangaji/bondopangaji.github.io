@@ -1,17 +1,17 @@
 <template>
   <h3 class="title">Hello!</h3>
   <p>
-    My name is <span class="bold">Bondo Pangaji</span>. I am a final year undergraduate student, majoring in
-    Information and Communication Technology with minor in Software Engineering.
+    I am <span class="bold">Bondo Pangaji</span>, a Software Developer with over 3 YoE in web development, specializing in backend development. 
+    Throughout my career, I have worked on a variety of projects, from designing and maintaining web applications for large-scale operations. 
+    I love writing clean, well-structured code and implementing best practices to build scalable and reliable solutions.
   </p>
   <p>
-    My areas of interest is web development especially backend and cloud computing. I thoroughly
-    enjoy writing well-documented code and implementing best practices in application development.
+    In addition to my technical expertise, I have gained valuable experience collaborating with stakeholders and cross-functional teams to deliver impactful software. 
+    My experience in identifying and resolving technical issues has contributed to improved system performance and reliability.
   </p>
   <p>
-    In addition to my academic pursuits, I am currently gaining valuable industry experience through my work in Software
-    Engineering. As I pursue full-time opportunities in this field, I am actively applying my skills and knowledge in
-    web development to deliver impactful solutions.
+    Building on my technical foundation and problem-solving abilities, I am equipped to leverage data-driven insights to guide strategic decision-making and foster business growth.
+    My skill set allows me to contribute effectively in both software development and analytical capacities, delivering meaningful solutions across a range of challenges.
   </p>
 </template>
 
