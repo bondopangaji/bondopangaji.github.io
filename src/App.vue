@@ -48,7 +48,7 @@
       </div>
     </main>
 
-    <footer>Made with 🍌 by Bondo</footer>
+    <footer>Made with 🍪 by Bondo</footer>
   </div>
 </template>
 
