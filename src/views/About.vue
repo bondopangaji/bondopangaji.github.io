@@ -1,5 +1,5 @@
 <template>
-  <!-- <h3 class="title">About</h3>
+  <h3 class="title">About</h3>
   <p>
     I am <span class="bold">Bondo Pangaji</span>, a Software Developer with over 3 YoE in web development, specializing in backend development. 
     Throughout my career, I have worked on a variety of projects, from designing and maintaining web applications for large-scale operations. 
