@@ -27,8 +27,8 @@
         </button>
       </nav>
       <nav>
-        <RouterLink to="/">Home</RouterLink><span class="sep"> / </span>
-        <RouterLink to="/portfolio">Portfolio</RouterLink><span class="sep"> / </span>
+        <!-- <RouterLink to="/">Home</RouterLink><span class="sep"> / </span> -->
+        <RouterLink to="/">Portfolio</RouterLink><span class="sep"> / </span>
         <RouterLink to="/now">Here & Now</RouterLink><span class="sep"> / </span>
         <RouterLink to="/misc">Misc</RouterLink>     
       </nav>
