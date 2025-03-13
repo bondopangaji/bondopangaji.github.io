@@ -17,7 +17,7 @@ export const work = [
   {
     id: 3,
     title: 'Software Developer - Tanjung Enim (On-Site)',
-    companyName: 'Bukit Asam (MLK)',
+    companyName: 'Bukit Asam',
     companyLink: 'https://www.ptba.co.id/',
     companyDescription:
       'Work under Mutiara Lawang Kidul (MLK), one of the Bukit Asam (PTBA) vendors supporting the coal rehandling division.',
