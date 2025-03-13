@@ -5,9 +5,9 @@
     <div class="tech-description">Technologies that i familiar with: </div>
     <ul>
       <li><span class="bold">Languages:</span> Groovy, Java, HTML, CSS, Javascript</li>
-      <li><span class="bold">Backend:</span> Spring, Nuxt</li>
+      <li><span class="bold">Backend:</span> Spring, Nuxt, Quarkus</li>
       <li><span class="bold">Databases:</span> MySQL, PostgreSQL</li>
-      <li><span class="bold">Frontend/Templating:</span> Vue, Thymeleaf, Freemarker</li>
+      <li><span class="bold">Frontend/Templating:</span> Vue, Freemarker</li>
       <li><span class="bold">VCS:</span> Git, GitHub, GitHub Actions</li>
     </ul>
   </div>

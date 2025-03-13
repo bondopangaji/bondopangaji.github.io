@@ -1,5 +1,7 @@
 <template>
-  <h3 class="title">Hello!</h3>
+  <h3 class="title">Ahoy!</h3>
+  <p> Whaddaya do here? </p>
+  <!--
   <p>
     I am <span class="bold">Bondo Pangaji</span>, a Software Developer with over 3 YoE in web development, specializing in backend development. 
     Throughout my career, I have worked on a variety of projects, from designing and maintaining web applications for large-scale operations. 
@@ -13,6 +15,7 @@
     Building on my technical foundation and problem-solving abilities, I am equipped to leverage data-driven insights to guide strategic decision-making and foster business growth.
     My skill set allows me to contribute effectively in both software development and analytical capacities, delivering meaningful solutions across a range of challenges.
   </p>
+  -->
 </template>
 
 <style scoped>

@@ -1,13 +1,30 @@
 export const work = [
   {
+    id: 4,
+    title: 'Backend Developer - Jakarta (On-Site)',
+    companyName: 'IFG Life (MLK)',
+    companyLink: 'https://ifg-life.id/',
+    companyDescription:
+      'Work under Accord Innovations, one of the IFG Life vendors supporting payment division.',
+    startDate: 'January 2025',
+    endDate: 'Now'
+    // responsibilities: [
+    //   `Designed, Developed and Maintained PTBA Rehandling's Dashboard Web Application`,
+    //   `Recreate and Improve PTBA Rehandling's Fleet Management System Web Application.`,
+    //   'Collaborate with stakeholders and developer throughout the development.',
+    //   'Identified and resolved software bugs, enhancing overall code quality and system reliability.',
+    //   'Support technical issue.'
+    // ]
+  },
+  {
     id: 3,
     title: 'Software Developer - Tanjung Enim (On-Site)',
-    companyName: 'MLK (Bukit Asam)',
-    companyLink: '#',
+    companyName: 'Bukit Asam (MLK)',
+    companyLink: 'https://www.ptba.co.id/',
     companyDescription:
-      'Mutiara Lawang Kidul (MLK) is one of the Bukit Asam (PTBA) vendors supporting the coal rehandling division.',
+      'Work under Mutiara Lawang Kidul (MLK), one of the Bukit Asam (PTBA) vendors supporting the coal rehandling division.',
     startDate: 'January 2024',
-    endDate: 'Now',
+    endDate: 'December 2024',
     responsibilities: [
       `Designed, Developed and Maintained PTBA Rehandling's Dashboard Web Application`,
       `Recreate and Improve PTBA Rehandling's Fleet Management System Web Application.`,
@@ -36,7 +53,7 @@ export const work = [
     ]
   },
   {
-    id: 2,
+    id: 1,
     title: 'Freelance Software Developer - Indonesia (On-Site)',
     companyName: 'Berkah Mulia Store',
     companyLink: '#',
