@@ -16,11 +16,11 @@
 
   <h3 class="title">What I use</h3>
   <ul>
-    <li>WSL (Prev Mac OS)</li>
+    <li>Windows/Ubuntu/Mac</li>
     <li>VS Code or any Jetbrains Product</li>
     <li>Notion</li>
-    <li>Google/Proton Suite (mailing, calendar, drive, etc)</li>
-    <li>Bruno (Postman alt)</li>
+    <li>Proton Suite (mailing, calendar, drive, etc)</li>
+    <li>Postman/Bruno</li>
     <li>Mozilla Firefox as primary browser</li>
   </ul>
 
