@@ -1,14 +1,10 @@
 export const now = [
   {
     id: 1,
-    hnn: 'Learning Golang'
+    hnn: 'Digging into Golang & Echo (sometimes)'
   },
   {
     id: 2,
-    hnn: 'Playing around with Echo Framework'
-  },
-  {
-    id: 3,
-    hnn: 'Digging into Digital Research Analytic and IT in Finance'
+    hnn: 'Learning PG Flow, Microservices and Workflow'
   }
 ]
