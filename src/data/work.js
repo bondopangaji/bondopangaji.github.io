@@ -5,7 +5,7 @@ export const work = [
     companyName: 'IFG Life',
     companyLink: 'https://ifg-life.id/',
     companyDescription:
-      'Work under Accord Innovations, one of the IFG Life vendors supporting payment division.',
+      'IFG Life is a leading life insurance company offering a range of financial products and services to individuals and businesses. Known for its customer-centric approach, IFG Life aims to provide protection, investment, and wealth management solutions with a focus on long-term financial security.',
     startDate: 'January 2025',
     endDate: 'Now',
     responsibilities: [
@@ -20,13 +20,13 @@ export const work = [
     companyName: 'Bukit Asam',
     companyLink: 'https://www.ptba.co.id/',
     companyDescription:
-      'Work under Mutiara Lawang Kidul (MLK), one of the Bukit Asam (PTBA) vendors supporting the coal rehandling division.',
+      'Bukit Asam is an Indonesian state-owned coal mining company. It is one of the largest coal producers in the country and operates primarily in the mining, processing, and distribution of coal.',
     startDate: 'January 2024',
     endDate: 'December 2024',
     responsibilities: [
       `Design, Develop and Maintain Rehandling Dashboard Web Application`,
       `Reverse Engineer and Improve Rehandling Fleet Management System Web Application.`,
-      'Collaborate withSstakeholder and Developer throughout the development.',
+      'Collaborate with Stakeholder and Developer throughout the development.',
       'Identify and solve software bugs, enhancing overall code quality and system reliability.',
       'Support technical issue.'
     ]
